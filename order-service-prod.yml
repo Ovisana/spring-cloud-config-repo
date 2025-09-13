@@ -1,1 +1,6 @@
+server:
+  port: 8081
+
+order:
+  message: "Hello from Prod environment!"
 
